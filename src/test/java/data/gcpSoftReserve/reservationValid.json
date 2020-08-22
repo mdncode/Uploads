@@ -1,0 +1,15 @@
+{
+    "tc001_validReservation": {
+        "header_value":{
+            "apiKey" : "NgrkE9b1zpO56sz9U3gaCeX6ZR6eUGmV"
+        },
+        "request_Value": {
+            "reservation": {
+                "clinicId": " ",
+                "visitDateTime": 1,
+                "timeZone": "MST",
+                "operationId": "2"
+            }
+        }
+    }
+}

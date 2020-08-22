@@ -1,0 +1,32 @@
+{
+    "error_5007":{
+        "header": {
+            "statusCode": "5007",
+            "statusTitle": "Error",
+            "statusDescription": "Error"
+        },
+        "details": {
+            "message": "Clinic Timeslot less than Server Time"
+        }
+    },    
+    "error_5009":{
+        "header": {
+            "statusCode": "5009",
+            "statusTitle": "Error",
+            "statusDescription": "Error"
+        },
+        "details": {
+            "message": "Mandatory Params missing in Request"
+        }
+    },
+    "error_5004":{
+        "header": {
+            "statusCode": "5004",
+            "statusTitle": "Error",
+            "statusDescription": "Error"
+        },
+        "details": {
+            "message": "Invalid Operation ID"
+        }
+    }
+}

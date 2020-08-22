@@ -1,0 +1,11 @@
+{
+    "reaturnReadySuccess":{
+        "statusCode": "0000",
+        "statusDescription": "Success",
+        "companyCode": 589635,
+        "covidTestingEligible": true,
+        "employeeConsentRequired": true,
+        "storeScheduling": true,
+        "corporateScheduling": true
+    }
+}

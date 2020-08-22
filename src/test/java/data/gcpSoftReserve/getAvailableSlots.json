@@ -1,0 +1,24 @@
+{
+    "getAvailableSlots": {
+        "header": {
+            "lineOfBusiness":"RETAIL",
+            "appName":"CVS_APP",
+            "apiKey":"2e77f5eb-016f-44a6-8d73-d5f2e6a01a54",
+            "channelName":"WEB",
+            "deviceToken":"d9708df38d23192e",
+            "deviceType":"DESKTOP",
+            "responseFormat":"JSON",
+            "securityType":"apiKey",
+            "source":"CVS_WEB",
+            "type":"retleg"
+        },
+        "details": [
+            {
+                "startDate":"07/09/2020x",
+                "endDate":"07/09/2020x",
+                "visitCode":"48",
+                "clinicId":"3011x"
+            }
+        ]
+    }  
+}

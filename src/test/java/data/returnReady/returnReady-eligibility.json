@@ -1,0 +1,16 @@
+{
+    "TC001_returnready": {
+        "headers": {
+            "apiKey": "siw4H1vmVLtMVg1aPiorkjlG2PPi61tE",
+            "isMock": "Y"
+        },
+        "requestPayload": {
+            "zip": "93306",
+            "gender": "F",
+            "id": "36548658",
+            "dateOfBirth": "1990-04-01"
+        }
+        
+    }
+
+}

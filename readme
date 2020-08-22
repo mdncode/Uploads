@@ -1,0 +1,4 @@
+mvn clean test -Dtest=ReturnReadyTest -DargLine="Dkarate.env='dev'"
+
+mvn clean test -Dtest=SoftReserveTest -DargLine="Dkarate.env='uat'"
+
